@@ -1,0 +1,4 @@
+First Name: James|Last Name: Dampsey|Date Of Birth: 2002-01-05|Gender: Female|Email: james@gmail.com|Hometown: Kuching,Sarawak|Password: $James1234
+First Name: Alice|Last Name: Tan|Date Of Birth: 2003-12-12|Gender: Female|Email: alice.tan@example.com|Hometown: Kuching, Sarawak|Password: $2y$10$6gUoScPfK2mJEnQwx6bACOS4gds2uFkGqYJhXXZm4poPjlx6PKXvm
+
+First Name: Isaac Jun Ling|Last Name: Chong|DOB: 2005-11-02|Gender: Male|Email: isaac@yahoo.com|Hometown: Miri, Sarawak|Password: $2y$10$XsrRho3MdmRECKxfp4kekeTf7kfA0O2qCdUQsBFgOAD9eww8rbvXu

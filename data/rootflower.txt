@@ -1,0 +1,9 @@
+Student Work 1|Workshop 1|Taylor|studentwork1.png|Romantic|A soft pink bouquet.|2025-10-11
+Student Work 2|Workshop 1|Elizabeth|student1.mp4|Graceful|Pink roses with white fillers, wrapped in translucent paper and tied with a white ribbon.|2025-10-11
+Student Work 3|Workshop 2|Ester|student2.mp4|Elegant|Cream and peach roses with white chrysanthemums, wrapped in beige paper and tied with a soft purple ribbon.|2025-10-11
+Student Work 4|Workshop 2|Janice|studentwork2.png|Elegant|A bold bouquet of red roses wrapped in glossy black and white paper. The circular rose arrangement creates a dramatic and luxurious feel.|2025-10-11
+Student Work 5|workshop 3|Nelson|student3.mp4|Fresh|Mixed bouquet with blue hydrangeas, pink and yellow roses, white daisies. Wrapped in translucent paper with a white-blue ribbon and message card.|2025-10-11
+Student Work 6|Workshop 3|Clarrisa|student4.mp4|Minimal|Light pink roses with yellow accents, wrapped in black and clear paper, tied with a white ribbon.|2025-10-11
+Student Work 7|Workshop 4|Oscar|studentwork3.png|Celebratory|A vibrant bouquet of roses, carnations, and mixed blooms in pink, yellow, orange, and purple. Wrapped in soft green paper and tied with a cheerful yellow ribbon during the final arrangement.|2025-10-11
+Student Work 8|Workshop 4|William|student5.mp4|Festive|Sunflowers, orange roses, and white blooms arranged on a stand with cream-orange ribbons and celebratory wrapping.|2025-10-11
+Student Work 9|Workshop 5|James|student6.mp4|Soft|Purple hydrangeas, white fillers, and daisies wrapped in cream-toned paper. A gentle and calming arrangement.|2025-10-11
